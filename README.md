@@ -1,5 +1,5 @@
 # designblog
 
-#Purpose
-#Functionality
-#Use
+###Purpose
+###Functionality
+
