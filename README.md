@@ -1,7 +1,5 @@
-# designblog
-
-###Purpose
+### Purpose
 Post design and development projects
 
-###Functionality
+### Functionality
 
